@@ -1,0 +1,4 @@
+-- Before installing you must insert the next line into your qb-core/shared.lua unless you plan on letting them get a driver_license upon completion of the theoretical test then ignore the next line
+['fly_permit']						 = {['name'] = 'fly_permit',						['label'] = 'Pilots Permit',			['weight'] = 0,			['type'] = 'item',		['image'] = 'id_card.png',				['unique'] = true,		['useable'] = true,		['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'A Pilots permit to show you can fly a plane as long as you have a passenger with a valid Pilots License'},
+['fly_license']						 = {['name'] = 'fly',						        ['label'] = 'Pilots License',			['weight'] = 0,			['type'] = 'item',		['image'] = 'id_card.png',				['unique'] = true,		['useable'] = true,		['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'A Pilots permit to show you can fly a plane as long as you have a passenger with a valid Pilots License'},
+
